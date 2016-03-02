@@ -1,4 +1,3 @@
 Hello World
 
-
-This is second line status.
+This is a new text added in our demo branch.
